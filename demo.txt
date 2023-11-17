@@ -1,4 +1,3 @@
 Hello I am in demo
 Now I am typing through Folder
 Now through gitbash
-Now making change 2nd time
